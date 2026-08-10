@@ -1,0 +1,6 @@
+{
+  "name": "ScholarFlow",
+  "description": "Elevate your academic journey with integrated academic tracking, timetable schedules, assignments management, performance analytics, and subject organization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
